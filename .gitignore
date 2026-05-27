@@ -1,0 +1,25 @@
+# Unreal Engine generated folders
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+
+# IDE files
+**/.vs/
+**/.idea/
+*.sln
+*.suo
+*.user
+*.opensdf
+*.opendb
+*.VC.db
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Archives / packaged files
+*.zip
+*.rar
+*.7z
+*.exe
